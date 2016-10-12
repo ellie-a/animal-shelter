@@ -1,0 +1,31 @@
+.left {
+  width: 300px;
+  float:left;
+  margin-right: 100px;
+  margin-left: 25px;
+}
+img {
+  width: 250px;
+}
+
+.center {
+  font-style: italic;
+}
+
+.left p {
+  font-style: oblique;
+}
+
+.lefty a {
+  font-weight: bold;
+}
+
+.center a {
+  color: blue;
+  font-weight: bold;
+}
+
+.right a {
+  color: red;
+  font-weight: bold;
+}
